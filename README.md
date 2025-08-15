@@ -1,2 +1,19 @@
-# aman-singh
-Hi there 👋   I'm Aman Singh — a web developer passionate about turning small ideas into functional, user-friendly web apps.   I focus on clean code, simple design, and projects that work well on any device.   Currently building tools like **Crypto Tracker** and experimenting with APIs to make data come alive.
+# Hi, I'm Aman Singh 👋
+Web developer focused on clean, fast front-end projects. I like building small tools that feel like products.
+
+## 🔧 Tech
+HTML • CSS • JavaScript • Git • GitHub Pages • Chart.js • REST APIs
+
+## 📌 Featured Projects
+- 🪙 **Crypto Tracker** — live prices, watchlist, and 24h charts  
+  Repo: https://github.com/amansingh798/crypto-tracker  
+  Live: https://amansingh798.github.io/crypto-tracker/
+
+## 🎯 What I'm building next
+- Weather dashboard with 3-day forecast
+- Color palette generator
+
+## 🤝 Connect
+- LinkedIn: *https://www.linkedin.com/in/aman-singh-332461313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*
+
+---
